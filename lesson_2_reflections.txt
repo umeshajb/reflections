@@ -3,3 +3,6 @@ Git creates the metadata for the repository. Without the metadata for the reposi
 
 How is the staging area different from the working directory and the repository? What value do you think it offers?
 The staging area is a space that allows to determine which changes will be part of a commit. It allows for a space to determine what should be part of a commit.
+
+How can you use the staging are to make sure you have one commit per logical change?
+You can use git status to see what is in the staging area before you commit it.
