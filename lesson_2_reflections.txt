@@ -6,3 +6,6 @@ The staging area is a space that allows to determine which changes will be part 
 
 How can you use the staging are to make sure you have one commit per logical change?
 You can use git status to see what is in the staging area before you commit it.
+
+What are some situations would branches be helpful in keeping your history organized? How would branches help?
+It helps by isolating changes.
