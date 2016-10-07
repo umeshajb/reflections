@@ -12,3 +12,6 @@ It helps by isolating changes.
 
 How do the diagrams help you visualize the branch structure?
 It shows you when the branch was created and how it diverged. 
+
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+The result of merging two branches is that the changes from each branch is in the merged branch. We represent it in the diagram the way we do by showing when the branches diverged and when they got back together.
