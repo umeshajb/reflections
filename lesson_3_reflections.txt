@@ -12,3 +12,6 @@ It acts as a backup. You can work offline.
 
 How would you collobrate without using Git or GitHub? What would be easier, and what would be harder?
 Through email. I wouldn't be able to keep track of all the version changes.
+
+When would you want to make a change in a separate branch other than master? What benefits does each approach have?
+I would want to use another branch when I am working on something that is experimental and don't want affect the stable master. The benefit of doing it this was is to make sure master is stable.
